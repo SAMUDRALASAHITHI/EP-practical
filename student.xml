@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+	<student-1>
+		<name>ananya</name>
+		<id>190030070</id>
+		<cgpa>9.38</cgpa>
+		<program>b-tech</program>
+		<year>2</year>
+		<semester>2</semester>
+	</student-1>
+	<student-2>
+		<name>harsha</name>
+		<id>190030715</id>
+		<cgpa>9.18</cgpa>
+		<program>b-tech</program>
+		<year>2</year>
+		<semester>2</semester>
+	</student-2>
+	<student-3>
+		<name>sahithi</name>
+		<id>190031459</id>
+		<cgpa>8.9</cgpa>
+		<program>b-tech</program>
+		<year>2</year>
+		<semester>2</semester>
+	</student-3>
+	<student-4>
+		<name>snehitha</name>
+		<id>190030059</id>
+		<cgpa>9.34</cgpa>
+		<program>b-tech</program>
+		<year>2</year>
+		<semester>2</semester>
+	</student-4>
+	<student-5>
+		<name>sindu</name>
+		<id>190030527</id>
+		<cgpa>8.9</cgpa>
+		<program>b-tech</program>
+		<year>2</year>
+		<semester>2</semester>
+	</student-5>
+</students>
